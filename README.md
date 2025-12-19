@@ -21,7 +21,7 @@ This project analyzes my knee rehabilitation recovery using real, self-collected
 7. Gen AI statement: Generative AI (ChatGPT) was used as a support tool during this project to assist with code structuring, debugging, and refining the project direction. All analysis decisions and interpretations were made by the author.
 
 8. How to run this project
-- Clone repository: git clone https://github.com/your-username/Knee-Rehabilitation-Recovery-Analysis.git
+- Clone repository: git clone https://github.com/maariionaa-code/Knee-Rehabilitation-Recovery-Analysis.git
 cd knee-rehabilitation-analysis
 - Install the required libraries: pip install pandas numpy matplotlib seaborn scikit-learn scipy (you can run the requirements file).
 - Run the jupyter notebook: jupyter notebook
